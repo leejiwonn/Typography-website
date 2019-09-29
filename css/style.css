@@ -365,7 +365,7 @@ body{
     width: 100%;
 }
 
-::-webkit-scrollbar{ width:9px; height:13px; }
+  ::-webkit-scrollbar{ width:9px; height:13px; }
 ::-webkit-scrollbar-button:start:decrement, 
 ::-webkit-scrollbar-button:end:increment{ 
   display:block;
