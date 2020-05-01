@@ -1,1 +1,12 @@
 <img src="./showing/p1.PNG"/>
+<img src="./showing/p2.PNG"/>
+<img src="./showing/p3.PNG"/>
+<img src="./showing/p4.PNG"/>
+<img src="./showing/p5.PNG"/>
+<img src="./showing/p6.PNG"/>
+<img src="./showing/p7.PNG"/>
+<img src="./showing/p8.PNG"/>
+<img src="./showing/p9.PNG"/>
+<img src="./showing/p10.PNG"/>
+<img src="./showing/p11.PNG"/>
+<img src="./showing/p12.PNG"/>
